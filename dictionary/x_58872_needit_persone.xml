@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Persone" max_length="40" name="x_58872_needit_persone" type="collection">
+        <element label="Cognome" max_length="50" name="cognome" type="string"/>
+        <element label="Data di nascita" max_length="40" name="data_di_nascita" type="glide_date"/>
+        <element display="true" label="ID Aziendale" max_length="100" name="id_aziendale" type="string"/>
+        <element label="Nome" max_length="20" name="nome" type="string"/>
+    </element>
+</database>
